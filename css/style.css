@@ -36,8 +36,7 @@ header {
   align-items: center;
   justify-content: space-between;
   padding: 22px 15%;
-  background-color: #020230;
-  opacity: 0.6;
+  background-color: #020230c7;
   border-bottom: 1px solid transparent;
   transition: all 0.45s ease;
 }
